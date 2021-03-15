@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Recipe Book</title>
+</head>
+<body>
+<marquee>
+<b><u>Welcome</u></b></marquee>
+<center><h1> The Joy of Cooking </h1></center>
+<img src="joy of cooking.jpg" height="300" width="500">
+<h2> Contents: </h2>
+<table border="1">
+<tr>
+<th>SL NO</th>
+<th>RECIPE NAME</th>
+<th>SERVING TIME</th>
+</tr>
+<tr>
+<td>1.</td>
+<td>Rice and Sambar</td>
+<td>Afternoon</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Chapati</td>
+<td>Night</td>
+</tr>
+</table>
+<h3> <center> General Cooking Tips is shown below </center></h3>
+<center><iframe src="tips.html" height="75%" width="75%">Recipe</iframe></center>
+<h3>If you want to know about Recipe #1 & #2, click on below link</h3>
+<a href="Rice.html">Recipe #1</a> <br> <br>
+<a href="chapathi.html">Recipe #2</a>
+</body>
+</html>
